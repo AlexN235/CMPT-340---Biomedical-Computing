@@ -1,0 +1,3 @@
+.git
+project/data/
+project/*.csv
